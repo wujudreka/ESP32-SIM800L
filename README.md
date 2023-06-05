@@ -1,5 +1,5 @@
 # ESP32-SIM800L
-it is a code for you who want to connect your esp32 to your SIM800L module. Actually the code can work not only for esp but also arduino, since it uses softwareserial. What you need to do is only change the appropriate pin for tx rx. 
+it is a simple code for you who want to connect your esp32 to your SIM800L module. Basically it is a code for you to check whether your microcontroller and your GPRS module have been connected appropriately. Actually the code can work not only for esp but also arduino, since it uses softwareserial. What you need to do is only change the appropriate pin for tx rx. 
 other than that, it was also tested with SIM900A V.5.1 (which 5V compatible), and can work like a charm. 
 
 ## before jump into next level project
