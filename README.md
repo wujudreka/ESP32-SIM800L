@@ -18,3 +18,5 @@ These are some useful AT command to check:
 1.  this code was tested on ESP32
 2.  using arduino IDE version 1.8.19
 3.  using ESP32 board library version 1.0.6
+
+if you use sim800l you can just follow the connection as the picture shows; however, if you use sim900a you dont need to use battery, as the module can accept direcly 5V from your microcontroller, just make sure that in the sim900a module is printed V.5.1, which the 5V version.
